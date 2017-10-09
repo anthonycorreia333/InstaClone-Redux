@@ -5,7 +5,7 @@ const Single = React.createClass({
     render() {
         return(
             <div className="single-photo">
-                
+              This is single  
             </div>
         )
     }
